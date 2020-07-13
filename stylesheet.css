@@ -37,3 +37,14 @@ p {
     background-repeat: no-repeat;
     overflow: auto;
 }
+
+#playlist{
+    list-style: none;
+}
+#playlist li a{
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+}
+#playlist .current-song a{
+    color:rgb(255, 251, 0);
+}
