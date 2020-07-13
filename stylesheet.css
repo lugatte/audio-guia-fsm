@@ -2,6 +2,9 @@ body {
     background-color: black;
     color: #ffed00;
 }
+h1 {
+    font-family: "Fondamento";
+}
 p {
     color: #ffffff;
 }
@@ -14,6 +17,7 @@ p {
     background-repeat: no-repeat;
     overflow: auto;
 }
+
 .bg-slide2 {
     background-image: url("img2.jpg");
     height: 100vh;
