@@ -3,7 +3,7 @@ body {
     color: #ffed00;
 }
 p {
-    color: #fff;
+    color: #ffffff;
 }
 .bg-slide1 {
     background-image: url("img1.jpg");
@@ -12,7 +12,6 @@ p {
     background-position: center top;
     background-size: cover;
     background-repeat: no-repeat;
-    overflow: auto;
 }
 .bg-slide2 {
     background-image: url("img2.jpg");
