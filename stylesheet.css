@@ -2,15 +2,13 @@ body {
     background-color: black;
     color: #ffed00;
 }
-.lead {
+p {
     color: #fff;
 }
-
 .bg-slide1 {
     background-image: url("img1.jpg");
     height: 100vh;
     width: 100vw;
-    position: relative;
     background-position: center top;
     background-size: cover;
     background-repeat: no-repeat;
